@@ -1,10 +1,11 @@
 {
   "name": "eslint-config-wonjerry",
-  "version": "1.5.4",
+  "version": "1.5.6",
   "description": "custom eslint config package for wonjerry",
-  "main": "src/index.js",
+  "main": "index.js",
   "author": "dldnjswo19@gmail.com",
   "license": "MIT",
+  "repository": "https://github.com/wonjerry/eslint-config-wonjerry",
   "peerDependencies": {
     "@typescript-eslint/eslint-plugin": "2.25.0",
     "@typescript-eslint/parser": "2.25.0",
